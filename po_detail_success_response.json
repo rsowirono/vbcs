@@ -1,4 +1,5 @@
-{
+[
+ {
   "msg" : "ok",
   "status" : "success",
   "contractStatus" : "Completeness Check Completed",
@@ -77,3 +78,4 @@
   ]
 
  }
+]
