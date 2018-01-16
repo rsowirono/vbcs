@@ -1,0 +1,5 @@
+{
+   "message": "FRAME_CONTRACTNO_EMPTY_ERROR",  --华为框架合同号ID 必填项
+   "flag": "F",--失败
+   "body": ""  --空
+ }

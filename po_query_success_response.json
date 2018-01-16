@@ -1,0 +1,42 @@
+{
+   "message": "",
+   "flag": "S",  --成功
+   "body": {     --结果集
+  "result": [
+    {
+   "status": "In Registration",
+   "contractId": "2386551210",
+   "customerPoNo": "LQQ03030011365",
+   "siteName": null,
+   "huaweiContractNo": "LQQ03030011365",
+   "currencyVOList": [
+     {
+    "code": "EUR",
+    "amount": "100"
+     },
+     {
+    "code": "USD",
+    "amount": "1111"
+     }
+   ],
+   "contractSubType": "PO Under Frame Contract",
+   "quotationNo": "LQQ03030011365",
+   "contractType": "Sale",
+   "incVAT": "Y",
+   "poIssuedDate": "2017-03-02 13:52:20"
+    }
+  ],
+  "pageVO": {     --分页信息
+    "endIndex": 10,
+    "filterStr": null,
+    "mysqlStartIndex": 0,
+    "mysqlEndIndex": 10,
+    "pageSize": 10,
+    "startIndex": 1,
+    "totalRows": 1,
+    "orderBy": null,
+    "curPage": 1,
+    "totalPages": 1,
+    "resultMode": 0
+  }
+   }
